@@ -31,7 +31,7 @@
 <br>
 
 
-[![FORK HDS-NEWS-BOT-](https://img.shields.io/badge/FORK%20-BOT-HDS-NEWS-BOT%20BOT-white)](https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT)
+[![FORK HDS-NEWS-BOT-](https://telegra.ph/file/84f07ad063a0358cbc437.jpg)](https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT/fork)
 
 
 
