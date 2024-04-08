@@ -3,7 +3,7 @@
 # **`✨HELLO I AM HDS OFFICIAL NEWS BOT✨`**
 
 <p align="center">
-<img src="https://telegra.ph/file/f87b6dc9af20b3b097a44.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/680e925c39f8b21f0732c.jpg" width="300" height="300"/>
 </p>
 
 
