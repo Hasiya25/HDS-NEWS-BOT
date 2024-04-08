@@ -46,8 +46,8 @@
 
 
 
-## 💦 SPECIAL THANKS TO 👇
-* [`Hasanga Dilshan (HDS NEWS BOT OWNER)`](https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT)
+## 💦 CONTACT BOT OWNER 👇
+* [`Hasanga Dilshan (HDS NEWS BOT OWNER)`](https://wa.me/94751627940)
 
 
 # *`💦 THANKS FOR USING HDS OFFICIAL NEWS BOT`* 📡
