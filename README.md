@@ -23,7 +23,7 @@
 
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/MANIBOT/News-Bot&template=https://github.com/MANIBOT/News-Bot.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/MANIBOT/News-Bot&template=https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT.git)
 
 
 
@@ -31,24 +31,23 @@
 <br>
 
 
-[![FORK HDS-NEWS-BOT-](https://img.shields.io/badge/FORK%20-MANINEWS%20BOT-white)](https://github.com/MANIBOT/MANI-BOT/fork)
+[![FORK HDS-NEWS-BOT-](https://img.shields.io/badge/FORK%20-BOT-HDS-NEWS-BOT%20BOT-white)](https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT)
 
 
 
 
-## 🕵️‍♂️ **`NEWS-BOT OWNER,`** 🕵️‍♀️
+## 👨‍💻 **`NEWS-BOT OWNER`** 
 
 
-<a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
+<a href="https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
-
-
+|**[`Hasanga Dilshan (HDS NEWS BOT OWNER)`](https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT)**|
 
 
-## 🎉 Special Thanks to
-* [`HDSOFFICIAL`](https://github.com/sadasofc/)
-*
 
 
-# **🎉 *THANKS FOR USING NEWS BOT***...
+## 💦 SPECIAL THANKS TO 👇
+* [`Hasanga Dilshan (HDS NEWS BOT OWNER)`](https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT)
+
+
+# *`💦 THANKS FOR USING HDS OFFICIAL NEWS BOT`* 📡
