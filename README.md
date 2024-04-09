@@ -23,7 +23,7 @@
 
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/MANIBOT/News-Bot&template=https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT&template=https://github.com/HDS-OFC-NEWS-BOT-24/HDS-NEWS-BOT.git)
 
 
 
